@@ -54,7 +54,7 @@ description: Федеральная налоговая служба
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><a href="../../../gis/dopolnitelnyi-spisok.md#avtomatizirovannaya-informacionnaya-sistema-fns-rossii">Автоматизированная информационная система ФНС России</a>
+      <td style="text-align:left"><a href="../../../gis/gisaddonlist.md#avtomatizirovannaya-informacionnaya-sistema-fns-rossii">Автоматизированная информационная система ФНС России</a>
       </td>
       <td style="text-align:left">
         <p>Единый государственный реестр юридических лиц (ЕГРЮЛ)</p>

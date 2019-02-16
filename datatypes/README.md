@@ -12,6 +12,6 @@ description: Какие данные присутствуют в области 
 * [Сведения о закупках и контрактах](procurement.md)
 * [Соглашения \(субсидии и субвенции\)](subsidy.md)
 * [Государственные задания](govtasks.md)
-* [Бюджеты организаций](byudzhety-organizacii.md)
-* [Бюджетная отчетность](byudzhetnaya-otchetnost.md)
+* [Бюджеты организаций](budorgs.md)
+* [Бюджетная отчетность](budreports.md)
 

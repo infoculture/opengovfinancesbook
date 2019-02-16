@@ -85,7 +85,7 @@ description: Министерство финансов Российской Фе
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><a href="../../../gis/closed/avtomatizirovannaya-informacionnaya-sistema-ais-finansy.md">Автоматизированная информационная система (АИС) "Финансы"</a>
+      <td style="text-align:left"><a href="../../../gis/closed/aisfinances.md">Автоматизированная информационная система (АИС) "Финансы"</a>
       </td>
       <td style="text-align:left">Интегрированная база данных Министерства финансов Российской Федерации</td>
     </tr>

@@ -6,6 +6,8 @@ description: >-
 
 # Ответы на вопросы
 
+_Если у Вас есть пожелания, дополнения, запросы в виде новых вопросов или замечания к имеющимся вопросам и ответам - пишите на_ [_ibegtin@infoculture.ru_](mailto:ibegtin@infoculture.ru)\_\_
+
 ## **Как организованы государственные финансы?**
 
 [Budget.gov.ru](http://budget.gov.ru) - это едииный портал бюджетной системы Российской Федерации созданный Министерством Финансов Российской Федерации \(МФ РФ\). Именно этот портал является отправной точкой в поиске информации о том как устроен бюджет, как осуществляется его планирование, подготовка и последующий надзор. Именно там собраны материалы по бюджетной классификации значительно облегчающие понимание структуры государственных расходов и доходов.
@@ -84,7 +86,7 @@ These data sources are:
 
 Civil project [OpenNGO](http://openngo.ru) created to aggregate these sources and it provides concentrated information about every NGO. It provides open API, web interface and collects data from various sources.
 
-**Where are government actual spending reports?**
+## Где найти отчеты о государственных расходах?
 
 Federal Treasury \(FT\) publish public spending reports about budget execution every month. This data provided as HTML and Excel documents at [roskazna.ru](http://roskazna.ru) website.
 
@@ -92,7 +94,7 @@ These reports include execution of federal budget, non-budget government funds a
 
 This information provided with visualization and opendata at [budget.gov.ru](http://budget.gov.ru) portal. It includes profiles of each ministry and each Russian region with budget data for each year, including spending reports.
 
-**Where are information about government programs and projects?**
+## **Где узнать о текущих госпрограммах и проектах?**
 
 Government programs and national projects are part of Russian federal budgetary process. They have specific regulation how they should be prepared, managed and executes. They have specific budget classification and they encoded into budget code classification \(_rus. КБК_\).
 
@@ -125,18 +127,20 @@ So final list of data sources:
 
 Actually government support and contracting with media is much more complex and not all information could be easily collected due complex structure of mass media holdings and overall lack of transparency of Russian media market, but these sources are good start to understand role of the government in mass media in Russia.
 
-—
+## Другие вопросы и ответы
 
-Part 2 will help with following questions:
+Ответы на эти вопросы пока ещё не написаны, они появятся в следующих версиях этой книги. Если у Вас есть предложения и дополнения - пишите их на [ibegtin@infoculture.ru](mailto:ibegtin@infoculture.ru)
 
-1. **Where are data about government capital expenditures ?**
-2. **How I could find information about regional governments budgets?**
-3. **How much government spends to support scientific research?**
-4. **What civil projects help to analyze government finances data?**
-5. **How to find budgetary supervision and budget violations data?**
-6. **How to find government revenue data?**
-7. **Where are data about municipal budgets ?**
-8. **How to find data about government support of small and medium business ?**
-9. **Where to find data about government property auctions?**
-10. **How to find data about government property?**
+1. **Где найти сведения о капитальных расходах?**
+2. **Где найти информацию о расходах региональных бюджетов?**
+3. **Как много государство тратит на научные исследования?**
+4. **Какие общественные проекты помогают работать с информацией о госфинансах?**
+5. **Где найти сведения о надзоре за бюджетными расходами и нарушениях?**
+6. **Как найти сведения о доходах бюджетов?**
+7. **Где найти данные о муниципальных бюджетах?**
+8. **Как найти сведения о поддержке малого и среднего бизнеса**
+9. **Где найти сведения о государственном имуществе?**
+10. **Где найти сведения о распродаже государственного имущества \(аукционах\)?**
+
+\*\*\*\*
 

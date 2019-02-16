@@ -13,7 +13,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><a href="pravitelstvo-rossii.md">Правительство России</a>
+      <td style="text-align:left"><a href="pravgov.md">Правительство России</a>
       </td>
       <td style="text-align:left">
         <p>Разработка закона о бюджете</p>
@@ -23,7 +23,7 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><a href="gosudarstvennaya-duma.md">Государственная Дума</a>
+      <td style="text-align:left"><a href="gosduma.md">Государственная Дума</a>
       </td>
       <td style="text-align:left">
         <p>Рассмотрение закона о бюджете</p>
@@ -37,7 +37,7 @@
         бюджета</td>
     </tr>
     <tr>
-      <td style="text-align:left"><a href="centralnyi-bank.md">Банк России</a>
+      <td style="text-align:left"><a href="cbr.md">Банк России</a>
       </td>
       <td style="text-align:left">Ведение счетов всех бюджетов всех уровней власти</td>
     </tr>
@@ -86,7 +86,7 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><a href="federalnaya-antimonopolnaya-sluzhba.md">ФАС России</a>
+      <td style="text-align:left"><a href="fasgov.md">ФАС России</a>
       </td>
       <td style="text-align:left">
         <p>Контроль (надзор) за государственным и муниципальным заказом;</p>
