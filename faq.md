@@ -107,7 +107,7 @@ Information about these programs and projects available at following data source
 
 Since government programs are part of budget, you may find data about programs in government planned spending and spending reports. This data is less detailed, but available too.
 
-**How much government spends to support mass-media organizations ?**
+## **Как государство тратит средства на поддержку СМИ?**
 
 Russian government organizes registration, support and oversight of mass-media. These functions shared between Roskomnadzor - Federal service for oversight over mass communications and Rospechat - Federal agency of printing. Both these government bodies are part of Ministry of communications of Russian Federation \(Minsvyaz RF\).
 
