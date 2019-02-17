@@ -74,58 +74,38 @@ _Если у Вас есть пожелания, дополнения, запр�
 
 ## **Сколько государство тратит на негосударственные некоммерческие организации?**
 
-Российское государство является важнейшим и крупнейшим источником финансирования и иной поддержки некоммерческих негосударственных организаций. Сведения об этом рассеяны по множеству государственных реестров:
+Российское государство является важнейшим и крупнейшим источником финансирования и иной поддержки некоммерческих негосударственных организаций. Сведения об этом рассеяны по множеству государственных реестров.
 
-These data sources are:
+Основные источники данных:
 
 * [ЕИС в сфере закупок](gis/public/eis.md) \([zakupki.gov.ru](http://zakupki.gov.ru)\) — некоммерческие организации в России являются активными участниками государственных и муниципальных закупок. Тысячи государственных и муниципальных контрактов содержатся в Единой информационной системе в сфере закупок и на портале Госзатраты \([clearspending.ru](http://clearspending.ru)\).
-* [budget.gov.ru](http://budget.gov.ru) — one of the registries published at budget.gov.ru website is registry of federal subsidies. This registry includes subsidies provided directly by federal government to NGOs.
-* [nko.economy.gov.ru](http://nko.economy.gov.ru) — website create by Ministry of economic development of Russian Federation \(MED RF\) dedicated to government support of social oriented non-profit organizations. It aggregates support of NGOs by regional governments.
-* [grants2016.pgrants.ru](http://grants2016.pgrants.ru) — archive of grants provided by federal operators of Presidential granting program.
-* [pgrants.ru](http://pgrants.ru) — actual list of receivers of Presidential granting program in 2017+ years
+* [Единый портал бюджетной системы](gis/public/epbs.md) \([budget.gov.ru](http://budget.gov.ru)\)— на ЕПБС публикуется реестр получателей субсидий из федерального бюджета. В этом реестре содержаться сведения о прямых субсидиях федерального бюджета некоммерческим организациям. .
+* [nko.economy.gov.ru](http://nko.economy.gov.ru) — сайт созданный [Министерством экономического развития Российской Федерации](power/fed/bodies/mineconom.md) \(МЭР РФ\) и посвящен теме предоставления субсидий НКО. В частности он агрегирует сведения о поддержке НКО со стороны региональных властей.
+* [grants2016.pgrants.ru](http://grants2016.pgrants.ru) —архив грантов по программе раздачи Президентских грантов гражданскому обществу до 2017 года 
+* [pgrants.ru](http://pgrants.ru) — действующий реестр получателей поддержки Фонда Президентских грантов с 2017 года.
 
-Civil project [OpenNGO](http://openngo.ru) created to aggregate these sources and it provides concentrated information about every NGO. It provides open API, web interface and collects data from various sources.
+Общественный проект Открытые НКО \([openngo.ru](http://openngo.ru)\) агрегирует сведения из этих источников и предоставляет их в виде профилей НКО, открытых данных и API. .
 
 ## Где найти отчеты о государственных расходах?
 
-Federal Treasury \(FT\) publish public spending reports about budget execution every month. This data provided as HTML and Excel documents at [roskazna.ru](http://roskazna.ru) website.
+Федеральное казначейство публикует отчеты о государственных расходах о исполнении бюджета каждый месяц. Эти сведения предоставляются в виде HTML и Excel отчетов на [официальном сайте Федерального Казначейства](gis/public/roskazna.md) \([roskazna.ru](http://roskazna.ru)\).
 
-These reports include execution of federal budget, non-budget government funds and regional budgets.
+Эти отчёты включают сведения об исполнении бюджета на федеральном уровне, о внебюджетных фондах \(ПФР, ФФОМС, ФСС\) и укрупненными срезами на уровне субъектов федерации.
 
-This information provided with visualization and opendata at [budget.gov.ru](http://budget.gov.ru) portal. It includes profiles of each ministry and each Russian region with budget data for each year, including spending reports.
+Также эта информация доступна на [Едином портале бюджетной системы](gis/public/epbs.md) \([budget.gov.ru](http://budget.gov.ru)\) с профилями расходов по каждому субъекту федерации и по каждому органу власти .
 
 ## **Где узнать о текущих госпрограммах и проектах?**
 
-Government programs and national projects are part of Russian federal budgetary process. They have specific regulation how they should be prepared, managed and executes. They have specific budget classification and they encoded into budget code classification \(_rus. КБК_\).
+Государственные программы и национальные проекты являются частью бюджетного процесса в России. Они имеют специализированное регулирование о том как они подготавливаются, согласуются, управляются и исполняются. Специальным образом они кодируются в бюджете через коды классификации КБК. 
 
-Information about these programs and projects available at following data sources:
+Информация о госпрограммах и национальных проектах рассеяна по следующим источникам:
 
-* [programs.gov.ru](http://programs.gov.ru) — primary source for all modern programs of federal government. It provides opendata s XML and a lot of documents about how these programs and projects were planned
-* [fcp.economy.gov.ru](http://fcp.economy.gov.ru) — previous public portal of Ministry of economic development of Russian Federation that should aggregate data about every federal program. It includes a lot of information about past projects and programs and financial reports and other documents.
-* [zakupki.gov.ru](http://zakupki.gov.ru) — federal government procurement website is helpful then you need to analyze how program/project money were actually spent. Each contract has budget code classifier that allows to link it to actual government program.
-* [gasu.gov.ru](http://gasu.gov.ru) — Government Automated System “Management” includes data on execution and results of each government program.
+* [Портал госпрограмм](gis/public/programs.md) \([programs.gov.ru](http://programs.gov.ru)\) — основной источник сведений о всех основных программах федерального бюджета. Предоставляет открытые данные и множество документов по планированию и исполнению программ. 
+* [Система ФЦП](gis/public/sistema-fcp.md) \([fcp.economy.gov.ru](http://fcp.economy.gov.ru)\) — предыдущая версия портала госпрограмм со сведениями о федеральных целевых программах и федеральных адресных инвестиционных программах.
+* [ЕИС в сфере закупок](gis/public/eis.md) \([zakupki.gov.ru](http://zakupki.gov.ru)\) — все госконтракты имеют код КБК связанных с ними расходов и позволяют сопоставить госпрограмму/нац проект с конкретными расходами.
+* [ГАС "Управление"](gis/public/gasu.md) \([gasu.gov.ru](http://gasu.gov.ru)\) — в ГАС "Управление" публикуются сведения о текущих расходах по каждой из госпрограмм.
 
-Since government programs are part of budget, you may find data about programs in government planned spending and spending reports. This data is less detailed, but available too.
-
-## **Как государство тратит средства на поддержку СМИ?**
-
-Russian government organizes registration, support and oversight of mass-media. These functions shared between Roskomnadzor - Federal service for oversight over mass communications and Rospechat - Federal agency of printing. Both these government bodies are part of Ministry of communications of Russian Federation \(Minsvyaz RF\).
-
-All Russian media organization registered by Roskomnadzor and [registry](http://rkn.gov.ru) of them provided on Roskomnadzor website. Rospechat provides significant subsidies to government mass media organizations and little subsidies to the small regional media.
-
-Mass media organizations receive financial support from government several ways:
-
-* Some of them participate in government procurement and they provide services to government organizations and corporations.
-* Other media receive direct subsidies from government. They major media organization like OTR \(Civil television of Russia\) or Russia Today \(ANO "TV-Novosti"\), it's about billions of rubles \(dozens of million euro\) per year.
-* Some regional media receive small government support as subsidies from Rospechat. It's about 300 000 - 1 000 000 rubles \(5 000 -15 000 euro\) subsidies.
-* and much lesser number of media are also NGO so they try to get one of Presidential grants for NGO organizations.
-
-So final list of data sources:
-
-* [zakupki.gov.ru](http://zakupki.gov.ru)  and [clearspending.ru](https://clearspending.ru) — Contracts with media organizations could be found with knowledge which organizations are media and filtering by OKPD, OKDP codes used to link contract results with certain industry.
-* [budget.gov.ru](http://budget.gov.ru) — one of the registries published at budget.gov.ru website is registry of federal subsidies. This registry includes subsidies provided directly by federal government to mass media organizations.
-
-Actually government support and contracting with media is much more complex and not all information could be easily collected due complex structure of mass media holdings and overall lack of transparency of Russian media market, but these sources are good start to understand role of the government in mass media in Russia.
+\*\*\*\*
 
 ## Другие вопросы и ответы
 
@@ -141,6 +121,7 @@ Actually government support and contracting with media is much more complex and 
 8. **Как найти сведения о поддержке малого и среднего бизнеса**
 9. **Где найти сведения о государственном имуществе?**
 10. **Где найти сведения о распродаже государственного имущества \(аукционах\)?**
+11. **Как государство тратит средства на поддержку СМИ?**
 
 \*\*\*\*
 
