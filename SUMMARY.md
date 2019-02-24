@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Введение](README.md)
+* [Открытые государственные финансы](README.md)
 * [Термины и определения](glossary.md)
 * [Как всё это устроено](howto/README.md)
   * [С чего начинать?](howto/howtostart/README.md)
