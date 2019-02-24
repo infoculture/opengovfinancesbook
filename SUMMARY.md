@@ -81,6 +81,4 @@
 * [Приложения](addons/README.md)
   * [Федеральные органы власти](addons/fedpower.md)
   * [Региональные органы власти](addons/regpower.md)
-  * [Источники информации](addons/datasources.md)
-  * [Список для чтения](addons/readinglist.md)
 
