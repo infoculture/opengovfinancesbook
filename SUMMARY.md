@@ -51,6 +51,7 @@
   * [Государственные задания](datatypes/govtasks.md)
   * [Бюджеты организаций](datatypes/budorgs.md)
   * [Бюджетная отчетность](datatypes/budreports.md)
+  * [Сведения о государственных и муниципальных организациях](datatypes/orgsinfo.md)
 * [Государственные информационные системы](gis/README.md)
   * [Публичные](gis/public/README.md)
     * [ЕПБС: Единый портал бюджетной системы](gis/public/epbs.md)
