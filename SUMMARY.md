@@ -3,7 +3,7 @@
 * [Открытые государственные финансы](README.md)
 * [Термины и определения](glossary.md)
 * [Как всё это устроено](howto/README.md)
-  * [С чего начинать?](howto/howtostart/README.md)
+  * [Ключевые документы. С чего начинать?](howto/howtostart/README.md)
     * [Конституция Российской Федерации](howto/howtostart/constitution.md)
     * [Бюджетный кодекс](howto/howtostart/budkodeks.md)
     * [Законы о бюджете](howto/howtostart/budgetlaw.md)
