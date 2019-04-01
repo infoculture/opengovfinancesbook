@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Открытые государственные финансы](README.md)
-* [Термины и определения](glossary.md)
 * [Как всё это устроено](howto/README.md)
   * [Ключевые документы. С чего начинать?](howto/howtostart/README.md)
     * [Конституция Российской Федерации](howto/howtostart/constitution.md)
@@ -78,6 +77,7 @@
   * [Как данные устроены и где их найти](opendata/kak-dannye-ustroeny-i-gde-ikh-naiti.md)
   * [Общественные проекты](opendata/openprojects.md)
 * [Ответы на вопросы](faq.md)
+* [Термины и определения](glossary.md)
 * [Приложения](addons/README.md)
   * [Федеральные органы власти](addons/fedpower.md)
   * [Региональные органы власти](addons/regpower.md)
